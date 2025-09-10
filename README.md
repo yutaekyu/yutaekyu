@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+안녕하세요 저는 03년생 동탄에 살고 있습니다. 
 <!--
 **yutaekyu/yutaekyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
