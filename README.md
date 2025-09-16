@@ -3,7 +3,6 @@
 저의 MBTI는 ESTJ 입니다. 
 호주에서 1년 살아봤는데 너무 좋아서 다시 돌아갈려구 수업을 신청했습니다.
 런닝과 탁구을 좋아합니다. 어렸을때 탁구는 6년 정도 쳤습니다.
-롤 이라는 게임도 좋아해요
 저는 방탈출 하는것도 좋아합니다.
 취미 추천좀해주세요
 **yutaekyu/yutaekyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
