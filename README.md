@@ -5,6 +5,7 @@
 런닝과 탁구을 좋아합니다. 어렸을때 탁구는 6년 정도 쳤습니다.
 저는 방탈출 하는것도 좋아합니다.
 취미 추천좀해주세요
+뭐하지,,,
 **yutaekyu/yutaekyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
