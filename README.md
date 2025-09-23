@@ -6,6 +6,7 @@
 저는 방탈출 하는것도 좋아합니다.
 취미 추천좀해주세요.
 시드니 너무 좋아요!
+낚시도 좋아합니다.
 
 **yutaekyu/yutaekyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
