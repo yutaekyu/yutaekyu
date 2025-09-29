@@ -8,6 +8,8 @@
 시드니 너무 좋아요!
 낚시도 좋아합니다.
 거의 모든 운동을 다 좋아합니다. 추천 해주세요!
+요즘 노래 추천좀해주세요
+
 
 **yutaekyu/yutaekyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
