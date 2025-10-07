@@ -10,6 +10,7 @@
 거의 모든 운동을 다 좋아합니다. 추천 해주세요!
 요즘 노래 추천좀해주세요
 피곤해 피곤해 오늘은 너무너무 피곤해 - 피곤해
+뭐하지
 
 **yutaekyu/yutaekyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
