@@ -14,6 +14,8 @@
 내일도 6시간이라니 ...
 시험 기간 너무 힘들다
 시험범위을 잘 모르겠습니다.
+공부해라
+
 **yutaekyu/yutaekyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
